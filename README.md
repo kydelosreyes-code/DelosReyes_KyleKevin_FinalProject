@@ -45,7 +45,9 @@ DelosReyes_KyleKevin_FinalProject/
 ## SIMPLE CLI USAGE
 <img width="379" height="547" alt="Screenshot 2026-05-16 220211" src="https://github.com/user-attachments/assets/f92a86fb-d22e-4674-934f-08815c0e7df8" />
 
+
 <img width="356" height="233" alt="Screenshot 2026-05-16 220255" src="https://github.com/user-attachments/assets/d1ed59c0-ca0a-49a9-91fc-714587015ba3" />
+
 
 
 ---
