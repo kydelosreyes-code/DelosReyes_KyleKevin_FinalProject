@@ -39,8 +39,10 @@ DelosReyes_KyleKevin_FinalProject/
 └── README.md                  # Technical documentation and deployment guide
 
 ** Sample CLI GUide**
-<img width="379" height="547" alt="Screenshot 2026-05-16 220211" src="https://github.com/user-attachments/assets/04cc30fa-fe40-40c9-a5c2-86ac97752dec" />
-<img width="356" height="233" alt="Screenshot 2026-05-16 220255" src="https://github.com/user-attachments/assets/0b8ef0a4-f25c-44de-8317-0e1518a492e2" />
+**<img width="379" height="547" alt="Screenshot 2026-05-16 220211" src="https://github.com/user-attachments/assets/0d97841f-4cc8-4fe0-b670-29ebf490e28a" />**
+**<img width="356" height="233" alt="Screenshot 2026-05-16 220255" src="https://github.com/user-attachments/assets/c07404c1-4dc2-4d17-bb53-7caec85fdce8" />**
+
+
 
 **For a full demonstration, check out this video link:** [https://youtu.be/xzMlQG5sZ2E?si=cH2fqOIqzC6-fY1y]
 
