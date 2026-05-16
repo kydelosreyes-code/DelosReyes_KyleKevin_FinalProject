@@ -22,22 +22,14 @@ The application utilizes a clean code structure that decouples the functional bu
 * **Case-Insensitive Query Engine:** Includes a search tool that normalizes both database strings and user input into lowercase format. This ensures accurate product matching regardless of how capital letters are typed (e.g., searching *"apple"*, *"Apple"*, or *"APPLE"* returns the exact same record matrix).
 * **Defensive Exception Handling:** Armed with smart error handling (`try-except` blocks) during file reading. This allows the application to initialize smoothly on its very first run by gracefully handling missing database file conditions without crashing the system terminal.
 
+## SIMPLE CLI USAGE
+<img width="379" height="547" alt="Screenshot 2026-05-16 220211" src="https://github.com/user-attachments/assets/f92a86fb-d22e-4674-934f-08815c0e7df8" />
+<img width="356" height="233" alt="Screenshot 2026-05-16 220255" src="https://github.com/user-attachments/assets/d1ed59c0-ca0a-49a9-91fc-714587015ba3" />
+
+
 ---
 
-## 📂 System Architecture & File Tree
-The project employs a standard production-ready file hierarchy designed to isolate runtime processing from local data storage:
-
-```text
-DelosReyes_KyleKevin_FinalProject/
-│
-├── data/
-│   └── inventory.txt          # Local flat-file text database for item retention
-│
-├── src/
-│   └── main.py                # Contains OOP Blueprints (Product & Inventory classes) 
-│                              # and the main terminal loop controller
-└── README.md                  # Technical documentation and deployment guide
 
 ## 🎥 Video Demonstration
 For a full demonstration, check out this video link:  
-👉 [Watch the SmartStock Demo on YouTube]https://youtu.be/xzMlQG5sZ2E?si=W8-hLrtMI4pF_L_K
+👉 [Watch the SmartStock Demo on YouTube](https://youtu.be/xzMlQG5sZ2E?si=W8-hLrtMI4pF_L_K)
